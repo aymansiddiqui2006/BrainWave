@@ -3,6 +3,7 @@ import Benefits from './components/Benefits.jsx'
 import Button from './components/Button.jsx'
 import Header from './components/Header.jsx'
 import Hero from './components/Hero.jsx'
+import Collaboration from './components/Collaboration.jsx'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
         <Header />
         <Hero />
         <Benefits/>
+        <Collaboration/>
       </div>
       <ButtonGradient />
     </>
